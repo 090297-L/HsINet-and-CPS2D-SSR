@@ -1,7 +1,7 @@
 # HsINet-and-CPS2D-SSR
 Hybrid-space Interaction Network for Efficient Single-Image Super-Resolution in Industrial Applications: Benchmark Methodology and Dataset
 
-Our paper is currently in the review stage of the journal ***. After the paper is accepted, we will upload the code and the dataset as soon as possible.
+Our paper is currently in the review stage of the journal IEEE/ASME Transactions on Mechatronics. After the paper is accepted, we will upload the code and the dataset as soon as possible.
 
 ## Display video
 
