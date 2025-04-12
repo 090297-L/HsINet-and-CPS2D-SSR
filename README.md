@@ -5,4 +5,4 @@ Our paper is currently in the review stage of the journal IEEE/ASME Transactions
 
 ## Display video
 
-Display video of AOI can be download in [Google drive](https://drive.google.com/file/d/1ULLhjB4qRHoLopkfPxRJsr2Fpq56n0c3/view?usp=drive_link).
+Display video of AOI can be download in [Google drive](https://drive.google.com/file/d/1t9lYuHEtcLq7tLZAvvhHwoz3QlBH1nXg/view?usp=sharing).
